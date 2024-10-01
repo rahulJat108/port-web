@@ -89,7 +89,7 @@ section {
     display: flex;
     align-items: center;
     padding: 0 9%;
-    background: url("../image/rahul1980.jpg") no-repeat;
+    background: url("rahul1980.jpg") no-repeat;
     background-size: cover;
     background-position: center;
 }
